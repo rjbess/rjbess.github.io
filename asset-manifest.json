@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a8b655de.chunk.css",
-    "main.js": "/static/js/main.fa5d450d.chunk.js",
-    "main.js.map": "/static/js/main.fa5d450d.chunk.js.map",
+    "main.js": "/static/js/main.199b6243.chunk.js",
+    "main.js.map": "/static/js/main.199b6243.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3756f90b.js",
     "runtime-main.js.map": "/static/js/runtime-main.3756f90b.js.map",
     "static/css/2.428929a5.chunk.css": "/static/css/2.428929a5.chunk.css",
@@ -12,20 +12,23 @@
     "static/css/2.428929a5.chunk.css.map": "/static/css/2.428929a5.chunk.css.map",
     "static/css/main.a8b655de.chunk.css.map": "/static/css/main.a8b655de.chunk.css.map",
     "static/js/2.acc39e8a.chunk.js.LICENSE.txt": "/static/js/2.acc39e8a.chunk.js.LICENSE.txt",
+    "static/media/BannerCroppedmd.eb30f5a4.jpg": "/static/media/BannerCroppedmd.eb30f5a4.jpg",
+    "static/media/BannerCroppedxxl.3683fedc.jpg": "/static/media/BannerCroppedxxl.3683fedc.jpg",
     "static/media/mdb.css": "/static/media/default-skin.f64c3af3.svg",
     "static/media/all.min.css": "/static/media/fa-solid-900.f4f93856.woff",
     "static/media/family.40dafa19.jpg": "/static/media/family.40dafa19.jpg",
     "static/media/frontColoured.418ca457.jpg": "/static/media/frontColoured.418ca457.jpg",
-    "static/media/mainBannerLG.71154ad1.jpg": "/static/media/mainBannerLG.71154ad1.jpg",
-    "static/media/mainBannerMD.b6222fdb.jpg": "/static/media/mainBannerMD.b6222fdb.jpg",
-    "static/media/mainBannerSM.db0b8f24.jpg": "/static/media/mainBannerSM.db0b8f24.jpg",
-    "static/media/mainBannerXL.018ddb40.jpg": "/static/media/mainBannerXL.018ddb40.jpg",
-    "static/media/mainBannerXXL2.73838be6.jpg": "/static/media/mainBannerXXL2.73838be6.jpg",
     "static/media/oldBusiness.060a7c02.jpg": "/static/media/oldBusiness.060a7c02.jpg",
     "static/media/oldBusiness2.fee9ff6a.jpg": "/static/media/oldBusiness2.fee9ff6a.jpg",
     "static/media/peter.d5c0531f.jpg": "/static/media/peter.d5c0531f.jpg",
     "static/media/philipSign.281d187a.jpg": "/static/media/philipSign.281d187a.jpg",
     "static/media/photo1.7f2e153a.jpg": "/static/media/photo1.7f2e153a.jpg",
+    "static/media/photo10.c0ec8f09.jpg": "/static/media/photo10.c0ec8f09.jpg",
+    "static/media/photo11.a50d1c34.jpg": "/static/media/photo11.a50d1c34.jpg",
+    "static/media/photo12.bd483d28.jpg": "/static/media/photo12.bd483d28.jpg",
+    "static/media/photo13.c9a363b7.JPG": "/static/media/photo13.c9a363b7.JPG",
+    "static/media/photo14.b53f791f.JPG": "/static/media/photo14.b53f791f.JPG",
+    "static/media/photo15.55a787bc.JPG": "/static/media/photo15.55a787bc.JPG",
     "static/media/photo2.5f3102d5.jpg": "/static/media/photo2.5f3102d5.jpg",
     "static/media/photo2.c359b93a.jpg": "/static/media/photo2.c359b93a.jpg",
     "static/media/photo3.25d9fc8c.jpg": "/static/media/photo3.25d9fc8c.jpg",
@@ -39,13 +42,14 @@
     "static/media/photo7.8368fc48.jpg": "/static/media/photo7.8368fc48.jpg",
     "static/media/photo8.2b345183.jpg": "/static/media/photo8.2b345183.jpg",
     "static/media/photo8.3a28af56.jpg": "/static/media/photo8.3a28af56.jpg",
-    "static/media/photo9.95a9fa1f.jpg": "/static/media/photo9.95a9fa1f.jpg"
+    "static/media/photo9.95a9fa1f.jpg": "/static/media/photo9.95a9fa1f.jpg",
+    "static/media/photo9.dbb43273.jpg": "/static/media/photo9.dbb43273.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3756f90b.js",
     "static/css/2.428929a5.chunk.css",
     "static/js/2.acc39e8a.chunk.js",
     "static/css/main.a8b655de.chunk.css",
-    "static/js/main.fa5d450d.chunk.js"
+    "static/js/main.199b6243.chunk.js"
   ]
 }
