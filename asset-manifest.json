@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.820cf63d.chunk.css",
-    "main.js": "/static/js/main.a939e3a6.chunk.js",
-    "main.js.map": "/static/js/main.a939e3a6.chunk.js.map",
+    "main.js": "/static/js/main.977c97c0.chunk.js",
+    "main.js.map": "/static/js/main.977c97c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3756f90b.js",
     "runtime-main.js.map": "/static/js/runtime-main.3756f90b.js.map",
     "static/css/2.0a2739fb.chunk.css": "/static/css/2.0a2739fb.chunk.css",
-    "static/js/2.5cade139.chunk.js": "/static/js/2.5cade139.chunk.js",
-    "static/js/2.5cade139.chunk.js.map": "/static/js/2.5cade139.chunk.js.map",
+    "static/js/2.874da9e9.chunk.js": "/static/js/2.874da9e9.chunk.js",
+    "static/js/2.874da9e9.chunk.js.map": "/static/js/2.874da9e9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0a2739fb.chunk.css.map": "/static/css/2.0a2739fb.chunk.css.map",
     "static/css/main.820cf63d.chunk.css.map": "/static/css/main.820cf63d.chunk.css.map",
-    "static/js/2.5cade139.chunk.js.LICENSE.txt": "/static/js/2.5cade139.chunk.js.LICENSE.txt",
+    "static/js/2.874da9e9.chunk.js.LICENSE.txt": "/static/js/2.874da9e9.chunk.js.LICENSE.txt",
     "static/media/BannerCroppedmd.eb30f5a4.jpg": "/static/media/BannerCroppedmd.eb30f5a4.jpg",
     "static/media/BannerCroppedxxl.3683fedc.jpg": "/static/media/BannerCroppedxxl.3683fedc.jpg",
     "static/media/HandbagRepair.cfbe40c6.jpg": "/static/media/HandbagRepair.cfbe40c6.jpg",
     "static/media/IMG_1132.bdf290a4.jpg": "/static/media/IMG_1132.bdf290a4.jpg",
-    "static/media/LeatherRepair.0a79f8ae.jpg": "/static/media/LeatherRepair.0a79f8ae.jpg",
     "static/media/mdb.css": "/static/media/default-skin.f64c3af3.svg",
     "static/media/custom sandals.e700a807.jpg": "/static/media/custom sandals.e700a807.jpg",
     "static/media/all.min.css": "/static/media/fa-solid-900.f4f93856.woff",
     "static/media/family.40dafa19.jpg": "/static/media/family.40dafa19.jpg",
     "static/media/frontColoured3.96a0662f.jpeg": "/static/media/frontColoured3.96a0662f.jpeg",
+    "static/media/leatherReapairTwo.262daeaf.jpg": "/static/media/leatherReapairTwo.262daeaf.jpg",
     "static/media/oldBusiness.060a7c02.jpg": "/static/media/oldBusiness.060a7c02.jpg",
     "static/media/oldBusiness2.fee9ff6a.jpg": "/static/media/oldBusiness2.fee9ff6a.jpg",
     "static/media/peter.d5c0531f.jpg": "/static/media/peter.d5c0531f.jpg",
@@ -36,17 +36,17 @@
     "static/media/photo3.9aa66d06.jpg": "/static/media/photo3.9aa66d06.jpg",
     "static/media/photo4.0dc87ab4.jpeg": "/static/media/photo4.0dc87ab4.jpeg",
     "static/media/photo5.64edb9a1.jpg": "/static/media/photo5.64edb9a1.jpg",
+    "static/media/photo5.76b64b43.jpg": "/static/media/photo5.76b64b43.jpg",
     "static/media/photo6.35fea7b6.jpeg": "/static/media/photo6.35fea7b6.jpeg",
     "static/media/photo7.8368fc48.jpg": "/static/media/photo7.8368fc48.jpg",
     "static/media/photo8.2b345183.jpg": "/static/media/photo8.2b345183.jpg",
-    "static/media/photo9.dbb43273.jpg": "/static/media/photo9.dbb43273.jpg",
-    "static/media/tarpRepair.fce1fa8a.jpg": "/static/media/tarpRepair.fce1fa8a.jpg"
+    "static/media/photo9.dbb43273.jpg": "/static/media/photo9.dbb43273.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3756f90b.js",
     "static/css/2.0a2739fb.chunk.css",
-    "static/js/2.5cade139.chunk.js",
+    "static/js/2.874da9e9.chunk.js",
     "static/css/main.820cf63d.chunk.css",
-    "static/js/main.a939e3a6.chunk.js"
+    "static/js/main.977c97c0.chunk.js"
   ]
 }
